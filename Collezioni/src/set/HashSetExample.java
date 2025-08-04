@@ -2,7 +2,7 @@ package set;
 
 import java.util.HashSet;
 import java.util.Set;
-
+//HashSet ordine casuale
 public class HashSetExample {
     public static void main(String[] args) {
 //        Creazione di un hash set
